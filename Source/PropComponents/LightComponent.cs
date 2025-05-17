@@ -14,7 +14,7 @@ namespace WearableProps.PropComponents
         public bool isHelmet;
         public List<Light> lights;
 
-        //private Light stockLight; // doesn't seem to be use anywhere?
+        //private Light stockLight; // doesn't seem to be used anywhere?
 
         public void Start()
         {
